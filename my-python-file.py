@@ -1,2 +1,3 @@
-for i in range(5):
-  print(i)
+def my_function(number):
+  for i in range(number):
+    print(i)
